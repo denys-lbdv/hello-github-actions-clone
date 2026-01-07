@@ -1,6 +1,6 @@
 name: Pot welcome comment
 on:
-  pull_repull_request:
+  pull_request:
     types: [opened]
   permissions:
     pull-request: write
