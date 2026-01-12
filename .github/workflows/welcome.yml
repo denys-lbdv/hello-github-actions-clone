@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Say which day is today'
-        run: ehco "$DAY_OF_WEEK"
+        run: echo "$DAY_OF_WEEK"
       - name: 'Say which day is today AFTER override'
         run: echo "Day after override is $DAY_OF_WEEK"
         env:
