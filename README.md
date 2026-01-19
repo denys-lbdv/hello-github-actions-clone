@@ -1,3 +1,5 @@
+[![Post welcome comment](https://github.com/denys-lbdv/part-1-Automate_development_tasks_by_using_GitHub_Actions/actions/workflows/welcome.yml/badge.svg)](https://github.com/denys-lbdv/part-1-Automate_development_tasks_by_using_GitHub_Actions/actions/workflows/welcome.yml)
+
 
 <div align="center">
 
